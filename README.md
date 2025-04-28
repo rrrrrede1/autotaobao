@@ -1,7 +1,7 @@
 # 有需要可以联系闲鱼同名rrrrrede1
 # 淘宝商品卡片提取工具
 
-这是一个使用 **Playwright** 自动化提取淘宝店铺商品卡片中 **React Fiber Key**（即商品ID前缀）的简单脚本。
+这是一个使用 **Playwright** 自动化提取淘宝店铺商品卡片中商品ID的简单脚本。
 
 ## 安装方法
 
@@ -12,7 +12,7 @@
    playwright install
    ```
 
-3. 将本项目的 `example.py` 文件保存到本地
+3. 将本项目的 `example.py` 文件保存到本地。
 
 ## 使用方法
 
@@ -53,7 +53,7 @@
    https://item.taobao.com/item.htm?id={id}
    ```
 
-在**{id}**处填上商品ID即可，看具体情况分为淘宝和天猫店铺。
+在{id}处填上商品ID即可，看具体情况分为淘宝和天猫店铺进行填写。
 
 # 许可证
 
