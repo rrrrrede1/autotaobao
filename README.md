@@ -1,0 +1,2 @@
+# autotaobao
+基于playwright的淘宝自动化获取商品ID的简单实现
